@@ -1,0 +1,27 @@
+### eclispe
+.settings/
+.project
+.classpath
+### JetBrains template
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm
+*.iml
+## Directory-based project format:
+.idea/
+*.ipr
+*.iws
+## Plugin-specific files:
+# IntelliJ
+out/
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+# JIRA plugin
+### Java template
+*.class
+# Package Files #
+*.jar
+*.war
+*.ear
+### maven
+target/
+# virtual machine crash logs
+hs_err_pid*
